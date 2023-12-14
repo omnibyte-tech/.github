@@ -6,7 +6,7 @@
 ![Logo](https://nathanpowell.uk/img/ZEWO9/lixAHIFU44.png/raw)
 # Welcome to TrackSim!
 
-From the developers behind Prime Logistics and CHub, we bring you TrackSim.
+From the developers behind Prime Logistics, we bring you TrackSim.
 A job logging solution for American Truck Simulator and Euro Truck Simulator 2 that processes the game data and sends it straight to your Drivers Hub with no fuss!
 
 **Gone are the days of trying to create your own solution...**
@@ -19,7 +19,6 @@ VLog and TrucksBook are solutions that are all-in-one Drivers Hub solution which
 
 **Is this solution best for me?**
 TrackSim is for virtual trucking companies that have their own Drivers Hub and need a way to log their drivers jobs onto their platform.
-Even if you do not have a Drivers Hub, look no further to our partner - CHub. They provide a customisable all-in-one Drivers Hub solution that uses TrackSim so you get the best of both worlds!
 
 **How much will it cost?**
 Our plans are monthly and based around the number of drivers you have within your VTC. You should choose the best plan for you. You can see all our plans below:  
